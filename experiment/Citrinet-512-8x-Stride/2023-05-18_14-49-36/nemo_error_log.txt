@@ -1,0 +1,2 @@
+[NeMo W 2023-05-18 14:49:23 optimizers:54] Apex was not found. Using the lamb or fused_adam optimizer will error out.
+[NeMo W 2023-05-18 14:49:23 experimental:27] Module <class 'nemo.collections.asr.modules.audio_modules.SpectrogramToMultichannelFeatures'> is experimental, not ready for production and is not fully supported. Use at your own risk.

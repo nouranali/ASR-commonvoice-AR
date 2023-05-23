@@ -1,0 +1,1 @@
+/home/nouran.ali/.local/lib/python3.8/site-packages/ipykernel_launcher.py --ip=127.0.0.1 --stdin=9024 --control=9022 --hb=9021 --Session.signature_scheme="hmac-sha256" --Session.key=b"476b2b0a-e526-4314-924a-2a3259d37841" --shell=9023 --transport="tcp" --iopub=9025 --f=/home/nouran.ali/.local/share/jupyter/runtime/kernel-v2-8528EANJ1aoaCG16.json
